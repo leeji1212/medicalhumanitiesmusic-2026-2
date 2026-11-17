@@ -10,7 +10,7 @@ ICD: 6A20
 
 #  Shine
 
-The film *Shine (1996)* depicts the severe mental breakdown and schizoaffective disorder experienced by the prodigy pianist David Helfgott, wherein Sergei Rachmaninoff’s *Piano Concerto No. 3 in D minor, Op. 30* functions as an active narrative agent that triggers and embodies his psychological collapse. Requiring extreme physical strength and cognitive precision, the concerto’s dense chromatic textures, relentless virtuoso passages, and soaring Romantic harmonies audibly amplify Helfgott’s inner turmoil and the unbearable pressure imposed by his tyrannical father. As the performance reaches its climax, David suffers a devastating psychiatric breakdown on stage, demonstrating how a musical work’s overwhelming physical and emotional demands can transcend mere artistic expression to push a performer beyond human endurance into pathological breakdown.
+The film *Shine (1996)* depicts the severe mental breakdown and schizoaffective disorder experienced by the prodigy pianist David Helfgott, wherein Sergei Rachmaninoff’s "Piano Concerto No. 3 in D minor, Op. 30" functions as an active narrative agent that triggers and embodies his psychological collapse. Requiring extreme physical strength and cognitive precision, the concerto’s dense chromatic textures, relentless virtuoso passages, and soaring Romantic harmonies audibly amplify Helfgott’s inner turmoil and the unbearable pressure imposed by his tyrannical father. As the performance reaches its climax, David suffers a devastating psychiatric breakdown on stage, demonstrating how a musical work’s overwhelming physical and emotional demands can transcend mere artistic expression to push a performer beyond human endurance into pathological breakdown.
 
 # 샤인
 
